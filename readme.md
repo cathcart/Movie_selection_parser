@@ -1,10 +1,17 @@
 Top 5 movies (number of times mentioned)
+
 Citizen Kane 45
+
 The Rules of the Game 29
+
 Seven Samurai 18
+
 Vertigo 18
+
 2001: A Space Odyssey 17
+
 Sunrise 15
+
 
 People with most similar taste (number of matching selections)
 J. Hoberman // Amy Taubin 5
